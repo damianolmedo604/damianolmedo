@@ -1,0 +1,12 @@
+h1{
+    color: black; px: 30px; 
+    text-transform: uppercase;
+    text-align: center;}
+
+h2{ font-size: small;
+     color: blue;}
+h4{text-align: center;color: green;}    
+
+ul{color: blueviolet; text-transform: arial;}
+     
+.destacados{font-size: medium;}
