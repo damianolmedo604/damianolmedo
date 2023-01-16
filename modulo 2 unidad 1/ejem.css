@@ -1,0 +1,9 @@
+.caja{
+    width:300px;height: 290px; background-color: blue;
+}
+
+img{width: 350px;height: 400px;border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;}
+.texto    
+    h2{font-family: 'Lato', sans-serif;}
