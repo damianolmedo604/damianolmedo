@@ -1,0 +1,46 @@
+.contenedor{
+    background-color: rgb(245, 245, 250);
+    height: 150px;
+    width: 150px;
+    display: flex;
+    direction: rtl;
+    flex-direction: column;
+    align-items: stretch;
+    
+      
+}
+    
+    
+
+.item1{
+background-color: rgb(248, 6, 6);
+width: 50px;
+height: 50px;
+margin: 0px;
+font-size: 15px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+}
+.item2{ background-color: blue;
+width: 50px;
+height: 50px;
+margin: 0px;
+font-size: 15px;
+display: flex;
+justify-content: center;
+align-items: center;}
+
+
+.item3{ background-color: green;
+    width: 50px;
+    height: 50px;
+    margin: 0px;
+    font-size: 15;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
