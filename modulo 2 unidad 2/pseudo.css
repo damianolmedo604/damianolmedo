@@ -1,0 +1,12 @@
+div 
+{height: 200px;
+    width: 200px;
+    background-color: blue;
+}
+div:hover
+{background-color: blueviolet;}
+p{background-color: blue;}
+span::after{
+    content: chau;
+    background-color: red;
+}

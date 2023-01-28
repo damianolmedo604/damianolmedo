@@ -1,0 +1,38 @@
+#contenedor{ 
+    background-color: blue;
+    width: 400px;
+    height: 200px;
+    position: static;
+    border: 1px black solid;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+#contenedorhijo1{ 
+    position: relative;
+    background-color:green;
+    height: 66px;
+    width: 110px;
+    left: 755px;
+    bottom: 200px;
+}
+#contenedorhijo2{ 
+    position: relative;
+    background-color: rgb(130, 213, 238);
+    height: 66px;
+    width: 110px;
+    left: 755px;
+    bottom: 200px;
+}
+#contenedorhijo3{ 
+    position: relative;
+    background-color: rgb(141, 8, 8);
+    height: 66px;
+    width: 110px;
+    left: 755px;
+    bottom: 200px;
+}
+    
+
