@@ -1,0 +1,23 @@
+body{
+	color: black;
+	background-color: brown;
+	font-size: 100%;
+}
+#contenedor {
+	width: 800px;
+	height: 100px;
+	background: #8FA68E;
+	margin-right:auto;
+	margin-left:auto;
+	overflow: hidden;
+
+}
+#nav{ 
+	color: green;
+    float: left;
+    width: 150px;
+}
+ul{
+
+	list-style: none
+}
