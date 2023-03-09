@@ -48,4 +48,17 @@ h2{
     display: flex;
     justify-content: space-between;
 }
+ 
 
+
+ .galeria{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+ }
+.galeria img {width: 150px ;
+border: 1px solid blue;
+padding: 0.3px;
+margin-bottom: 20px;
+margin-inline: 2px;
+}
